@@ -1,4 +1,4 @@
-        import PySimpleGUI as sg
+import PySimpleGUI as sg
 sg.theme ("LightBlue5")
 def validar():
     alunos = []
