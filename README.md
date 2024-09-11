@@ -5,4 +5,12 @@ A interface gráfica, construída com <a href="https://www.pysimplegui.com/">PyS
 
 <br>
 Segue o exemplo:
-<img src=""alt="" style="widith:1150px;">
+
+<div style="display: inline-block" >
+<img src="https://github.com/xSanoba/Trabalho-de-notas-em-python/blob/main/login.PNG?raw=true" alt="" style="widith:1150px;">
+<img src="https://github.com/xSanoba/Trabalho-de-notas-em-python/blob/main/login.PNG?raw=true" alt="" style="widith:1150px;">
+</div>
+
+
+
+
