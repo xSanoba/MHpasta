@@ -8,7 +8,7 @@ Segue o exemplo:
 
 <div style="display: inline-block" >
 <img src="https://github.com/xSanoba/Trabalho-de-notas-em-python/blob/main/login.PNG?raw=true" alt="" style="widith:1150px;">
-<img src="https://github.com/xSanoba/Trabalho-de-notas-em-python/blob/main/login.PNG?raw=true" alt="" style="widith:1150px;">
+<img src="https://github.com/xSanoba/Trabalho-de-notas-em-python/blob/main/REGISTRO%20DE%20NOTAS.PNG?raw=true" alt="" style="widith:1150px;">
 </div>
 
 
